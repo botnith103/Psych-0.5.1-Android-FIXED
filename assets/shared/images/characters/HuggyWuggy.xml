@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HuggyWuggy.png"><SubTexture name="HuggyWuggy Idle0000" x="0" y="0" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0001" x="1804" y="0" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0002" x="3608" y="0" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0003" x="5412" y="0" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0004" x="0" y="2104" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0005" x="1804" y="2104" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0006" x="3608" y="2104" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0007" x="5412" y="2104" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0008" x="0" y="4208" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0009" x="1804" y="4208" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0010" x="3608" y="4208" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy Idle0011" x="5412" y="4208" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy up0000" x="0" y="6312" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy up0001" x="1804" y="6312" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy up0002" x="3608" y="6312" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy right0000" x="5412" y="6312" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy right0001" x="0" y="8416" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy right0002" x="1804" y="8416" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy left0000" x="3608" y="8416" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy left0001" x="5412" y="8416" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy left0002" x="0" y="10520" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy down0000" x="1804" y="10520" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy down0001" x="3608" y="10520" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+<SubTexture name="HuggyWuggy down0002" x="5412" y="10520" width="1804" height="2104" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104" />
+</TextureAtlas>

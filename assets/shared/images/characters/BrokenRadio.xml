@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BrokenRadio.png">
+<SubTexture name="BrokenRadio No more beep0000" x="0" y="0" width="1184" height="736" frameX="0" frameY="0" frameWidth="1184" frameHeight="736" />
+<SubTexture name="BrokenRadio No more beep0001" x="1184" y="0" width="1184" height="736" frameX="0" frameY="0" frameWidth="1184" frameHeight="736" />
+<SubTexture name="BrokenRadio No more beep0002" x="0" y="736" width="1184" height="736" frameX="0" frameY="0" frameWidth="1184" frameHeight="736" />
+<SubTexture name="BrokenRadio No more beep0003" x="1184" y="736" width="1184" height="736" frameX="0" frameY="0" frameWidth="1184" frameHeight="736" />
+<SubTexture name="BrokenRadio No more beep0004" x="0" y="1472" width="1184" height="736" frameX="0" frameY="0" frameWidth="1184" frameHeight="736" />
+</TextureAtlas>
