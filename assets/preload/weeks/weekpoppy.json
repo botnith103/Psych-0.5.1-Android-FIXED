@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Hugs", "huggywuggy", [34, 51, 68]],
+		["Squish", "huggywuggy", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "poppy",
+
+	"storyName": "week poppy",
+	"difficulties": "Hard",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
