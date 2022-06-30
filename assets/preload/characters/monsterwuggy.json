@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mosnter huggy idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mosnter huggy up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mosnter huggy left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-19
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mosnter huggy right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-70
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mosnter huggy down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mosnter_huggy",
+	"position": [
+		-630,
+		-900
+	],
+	"healthicon": "monsterwuggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		120,
+		255
+	],
+	"camera_position": [
+		550,
+		580
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
