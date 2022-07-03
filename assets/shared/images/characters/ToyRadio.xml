@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ToyRadio.png">
+<SubTexture name="ToyRadio idle0000" x="0" y="0" width="1016" height="733" frameX="0" frameY="0" frameWidth="1016" frameHeight="733" />
+<SubTexture name="ToyRadio idle0001" x="1016" y="0" width="1016" height="733" frameX="0" frameY="0" frameWidth="1016" frameHeight="733" />
+<SubTexture name="ToyRadio idle0002" x="0" y="733" width="1016" height="733" frameX="0" frameY="0" frameWidth="1016" frameHeight="733" />
+<SubTexture name="ToyRadio idle0003" x="1016" y="733" width="1016" height="733" frameX="0" frameY="0" frameWidth="1016" frameHeight="733" />
+<SubTexture name="ToyRadio idle0004" x="0" y="1466" width="1016" height="733" frameX="0" frameY="0" frameWidth="1016" frameHeight="733" />
+</TextureAtlas>
