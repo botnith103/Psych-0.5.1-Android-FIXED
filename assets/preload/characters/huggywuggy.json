@@ -10,50 +10,6 @@
 			"anim": "idle",
 			"indices": [],
 			"name": "HuggyWuggy Idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				50,
-				4
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "HuggyWuggy up"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				60,
-				10
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "HuggyWuggy left"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				39,
-				0
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "HuggyWuggy right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				50,
-				-10
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "HuggyWuggy down"
 		}
 	],
 	"no_antialiasing": false,
