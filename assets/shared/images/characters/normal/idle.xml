@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="HuggyWuggy.png">
-<SubTexture name="HuggyWuggy Idle0000" x="953" y="0" width="960" height="1933" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104"/>
-<SubTexture name="HuggyWuggy Idle0001" x="0" y="0" width="953" height="1940" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104"/>
-<SubTexture name="HuggyWuggy Idle0002" x="0" y="1940" width="993" height="1913" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104"/>
-<SubTexture name="HuggyWuggy Idle0003" x="2886" y="0" width="988" height="1920" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104"/>
-<SubTexture name="HuggyWuggy Idle0004" x="1913" y="0" width="973" height="1927" frameX="0" frameY="0" frameWidth="1804" frameHeight="2104"/>
-</TextureAtlas>

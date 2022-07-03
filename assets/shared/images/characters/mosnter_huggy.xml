@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="mosnter_huggy.png">
-<SubTexture name="mosnter huggy idle0000" x="0" y="0" width="902" height="2065" frameX="-420" frameY="-159" frameWidth="2004" frameHeight="2262"/>
-<SubTexture name="mosnter huggy idle0001" x="2716" y="0" width="964" height="2006" frameX="-393" frameY="-218" frameWidth="2004" frameHeight="2262"/>
-<SubTexture name="mosnter huggy idle0002" x="1805" y="0" width="911" height="2059" frameX="-415" frameY="-165" frameWidth="2004" frameHeight="2262"/>
-<SubTexture name="mosnter huggy idle0003" x="902" y="0" width="903" height="2063" frameX="-419" frameY="-161" frameWidth="2004" frameHeight="2262"/>
+<TextureAtlas imagePath="mosnter_huggy.png"><SubTexture name="mosnter huggy idle0000" x="0" y="0" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0001" x="2004" y="0" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0002" x="4008" y="0" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0003" x="6012" y="0" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0004" x="8016" y="0" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0005" x="0" y="2262" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0006" x="2004" y="2262" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0007" x="4008" y="2262" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0008" x="6012" y="2262" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0009" x="8016" y="2262" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0010" x="0" y="4524" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy idle0011" x="2004" y="4524" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy up0000" x="4008" y="4524" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy up0001" x="6012" y="4524" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy up0002" x="8016" y="4524" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy right0000" x="0" y="6786" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy right0001" x="2004" y="6786" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy right0002" x="4008" y="6786" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy right0003" x="6012" y="6786" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy left0000" x="8016" y="6786" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy left0001" x="0" y="9048" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy left0002" x="2004" y="9048" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy down0000" x="4008" y="9048" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy down0001" x="6012" y="9048" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
+<SubTexture name="mosnter huggy down0002" x="8016" y="9048" width="2004" height="2262" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262" />
 </TextureAtlas>
