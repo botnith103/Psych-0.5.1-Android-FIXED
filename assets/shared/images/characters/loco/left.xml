@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mosnter_huggy.png">
+<SubTexture name="mosnter huggy left0000" x="0" y="0" width="1542" height="1954" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262"/>
+<SubTexture name="mosnter huggy left0001" x="1542" y="0" width="1543" height="1952" frameX="0" frameY="0" frameWidth="2004" frameHeight="2262"/>
+</TextureAtlas>
