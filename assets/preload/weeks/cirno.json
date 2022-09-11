@@ -1,0 +1,40 @@
+{
+	"storyName": "Triste",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "weekfernan",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"chirumiru",
+			"cirno",
+			[
+				158,
+				128,
+				92
+			]
+	  ],
+	"songs": [
+		[
+			"	perfect-math",
+			"cirno",
+			[
+				158,
+				128,
+				92
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
