@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="desks.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOP0000" x="2" y="2" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0001" x="2" y="2" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0002" x="1882" y="2" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0003" x="1882" y="2" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0004" x="2" y="788" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0005" x="2" y="788" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0006" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0007" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0008" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0009" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0010" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0011" x="1882" y="788" width="1878" height="783" frameX="0" frameY="-18" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0012" x="2" y="1574" width="1878" height="791" frameX="0" frameY="-10" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0013" x="2" y="1574" width="1878" height="791" frameX="0" frameY="-10" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0014" x="1882" y="1574" width="1878" height="801"/>
+	<SubTexture name="BOP0015" x="1882" y="1574" width="1878" height="801"/>
+	<SubTexture name="BOP0016" x="2" y="2377" width="1878" height="798" frameX="0" frameY="-3" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0017" x="2" y="2377" width="1878" height="798" frameX="0" frameY="-3" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0018" x="1882" y="2377" width="1878" height="786" frameX="0" frameY="-15" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0019" x="1882" y="2377" width="1878" height="786" frameX="0" frameY="-15" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0020" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0021" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0022" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0023" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0024" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0025" x="2" y="3177" width="1878" height="784" frameX="0" frameY="-17" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0026" x="1882" y="3177" width="1878" height="787" frameX="0" frameY="-14" frameWidth="1878" frameHeight="801"/>
+	<SubTexture name="BOP0027" x="1882" y="3177" width="1878" height="787" frameX="0" frameY="-14" frameWidth="1878" frameHeight="801"/>
+</TextureAtlas>
