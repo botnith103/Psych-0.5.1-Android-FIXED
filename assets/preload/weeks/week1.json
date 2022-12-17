@@ -1,22 +1,44 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+  "storyName": "Geometrical Rap!",
+  "difficulties": "easy, normal",
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Geometrical Dominator",
+      "dashy",
+      [
+        255,
+        200,
+        0
+      ]
+    ],
+    [
+      "Striker",
+      "dashy2",
+      [
+        255,
+        100,
+        0
+      ]
+    ],
+    [
+      "Infiltration",
+      "darkness",
+      [
+        0,
+        35,
+        0
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "Week 1"
 }
