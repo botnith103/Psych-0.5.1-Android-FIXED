@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FastShipGF_Assets.png">
+<SubTexture name="FastShipGFLoop instancia 10000" x="0" y="0" width="458" height="313" frameX="-797" frameY="-866" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipGFLoop instancia 10001" x="458" y="0" width="450" height="322" frameX="-802" frameY="-856" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipGFLoop instancia 10002" x="0" y="322" width="459" height="317" frameX="-794" frameY="-861" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipGFLoop instancia 10003" x="459" y="322" width="442" height="324" frameX="-810" frameY="-854" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipGFLoop instancia 10004" x="0" y="646" width="460" height="320" frameX="-793" frameY="-857" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipGFLoop instancia 10005" x="460" y="646" width="448" height="321" frameX="-803" frameY="-856" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

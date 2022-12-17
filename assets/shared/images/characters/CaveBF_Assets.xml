@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CaveBF_Assets.png">
+<SubTexture name="CaveBoyfriendDown0000" x="117" y="468" width="133" height="145" frameX="-962" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendDown0001" x="256" y="318" width="130" height="148" frameX="-965" frameY="-954" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendDown0002" x="122" y="164" width="129" height="152" frameX="-966" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendIdle0000" x="379" y="468" width="129" height="144" frameX="-960" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendIdle0001" x="250" y="468" width="129" height="145" frameX="-960" frameY="-949" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendIdle0002" x="489" y="0" width="128" height="147" frameX="-961" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendIdle0003" x="129" y="318" width="127" height="149" frameX="-962" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendIdle0004" x="363" y="152" width="125" height="150" frameX="-964" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendLeft0000" x="237" y="0" width="126" height="154" frameX="-958" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendLeft0001" x="363" y="0" width="126" height="152" frameX="-961" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendLeft0002" x="0" y="318" width="129" height="150" frameX="-960" frameY="-952" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendRight0000" x="0" y="468" width="117" height="146" frameX="-964" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendRight0001" x="489" y="147" width="116" height="147" frameX="-965" frameY="-949" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendRight0002" x="489" y="294" width="116" height="147" frameX="-964" frameY="-949" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendUp0000" x="0" y="0" width="117" height="164" frameX="-965" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendUp0001" x="117" y="0" width="120" height="159" frameX="-961" frameY="-948" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="CaveBoyfriendUp0002" x="0" y="164" width="122" height="154" frameX="-960" frameY="-953" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

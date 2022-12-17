@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ShipGF_Assets.png">
+<SubTexture name="ShipGFLeft0000" x="777" y="557" width="255" height="184" frameX="-885" frameY="-932" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0001" x="1042" y="0" width="265" height="181" frameX="-885" frameY="-937" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0002" x="775" y="773" width="255" height="182" frameX="-886" frameY="-935" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0003" x="1042" y="181" width="264" height="181" frameX="-885" frameY="-939" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0004" x="0" y="773" width="255" height="184" frameX="-885" frameY="-934" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0005" x="510" y="773" width="265" height="183" frameX="-885" frameY="-936" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0006" x="255" y="773" width="255" height="184" frameX="-885" frameY="-933" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0007" x="777" y="372" width="264" height="185" frameX="-885" frameY="-933" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFLeft0008" x="522" y="190" width="255" height="187" frameX="-885" frameY="-930" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0000" x="255" y="586" width="272" height="186" frameX="-875" frameY="-928" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0001" x="0" y="207" width="256" height="190" frameX="-882" frameY="-923" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0002" x="0" y="397" width="264" height="189" frameX="-882" frameY="-927" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0003" x="256" y="207" width="258" height="190" frameX="-882" frameY="-925" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0004" x="257" y="0" width="265" height="191" frameX="-881" frameY="-926" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0005" x="0" y="0" width="257" height="207" frameX="-881" frameY="-926" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0006" x="264" y="397" width="265" height="189" frameX="-881" frameY="-929" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0007" x="522" y="0" width="255" height="190" frameX="-881" frameY="-927" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0008" x="777" y="0" width="265" height="186" frameX="-881" frameY="-932" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0009" x="0" y="586" width="255" height="187" frameX="-882" frameY="-930" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="ShipGFRight0010" x="777" y="186" width="264" height="186" frameX="-881" frameY="-933" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DemonGF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DemonGFLeft0000" x="0" y="0" width="615" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0001" x="0" y="0" width="615" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0002" x="615" y="0" width="618" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0003" x="615" y="0" width="618" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0004" x="1233" y="0" width="632" height="582"/>
+	<SubTexture name="DemonGFLeft0005" x="1233" y="0" width="632" height="582"/>
+	<SubTexture name="DemonGFLeft0006" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0007" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0008" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0009" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0010" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0011" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0012" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0013" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFLeft0014" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0000" x="627" y="582" width="653" height="582"/>
+	<SubTexture name="DemonGFRight0001" x="627" y="582" width="653" height="582"/>
+	<SubTexture name="DemonGFRight0002" x="1280" y="582" width="636" height="582" frameX="0" frameY="0" frameWidth="653" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0003" x="1280" y="582" width="636" height="582" frameX="0" frameY="0" frameWidth="653" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0004" x="0" y="1164" width="629" height="582" frameX="0" frameY="0" frameWidth="653" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0005" x="0" y="1164" width="629" height="582" frameX="0" frameY="0" frameWidth="653" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0006" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0007" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0008" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0009" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0010" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0011" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0012" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0013" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="DemonGFRight0014" x="0" y="582" width="627" height="582" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+</TextureAtlas>

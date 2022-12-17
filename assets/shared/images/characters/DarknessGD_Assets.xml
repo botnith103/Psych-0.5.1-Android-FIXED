@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DarknessGD_Assets.png">
+<SubTexture name="DarknessGDDown0000" x="0" y="0" width="177" height="154" frameX="-931" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDDown0001" x="177" y="0" width="176" height="158" frameX="-931" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDDown0002" x="353" y="0" width="177" height="162" frameX="-930" frameY="-938" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDIdle0000" x="0" y="162" width="177" height="157" frameX="-926" frameY="-946" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDIdle0001" x="177" y="162" width="177" height="159" frameX="-926" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDIdle0002" x="354" y="162" width="176" height="160" frameX="-926" frameY="-942" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDIdle0003" x="0" y="322" width="177" height="159" frameX="-925" frameY="-943" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDIdle0004" x="177" y="322" width="177" height="162" frameX="-925" frameY="-940" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDLeft0000" x="354" y="322" width="174" height="160" frameX="-937" frameY="-943" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDLeft0001" x="0" y="484" width="185" height="169" frameX="-932" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDLeft0002" x="185" y="484" width="167" height="159" frameX="-938" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDRight0000" x="352" y="484" width="175" height="156" frameX="-937" frameY="-946" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDRight0001" x="0" y="653" width="172" height="155" frameX="-940" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDRight0002" x="172" y="653" width="170" height="155" frameX="-942" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDUp0000" x="342" y="653" width="174" height="155" frameX="-937" frameY="-942" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDUp0001" x="0" y="808" width="174" height="153" frameX="-937" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessGDUp0002" x="174" y="808" width="174" height="151" frameX="-937" frameY="-946" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

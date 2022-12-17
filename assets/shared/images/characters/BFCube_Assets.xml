@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFCube_Assets.png">
+<SubTexture name="BFCubeDown0000" x="637" y="0" width="195" height="87" frameX="-930" frameY="-976" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeDown0001" x="414" y="454" width="195" height="93" frameX="-930" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeDown0002" x="0" y="454" width="197" height="98" frameX="-928" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeIdle0000" x="197" y="454" width="217" height="94" frameX="-914" frameY="-975" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeIdle0001" x="379" y="346" width="216" height="99" frameX="-915" frameY="-970" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeIdle0002" x="166" y="346" width="213" height="106" frameX="-917" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeIdle0003" x="411" y="228" width="218" height="109" frameX="-913" frameY="-960" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeLeft0000" x="0" y="232" width="228" height="114" frameX="-910" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeLeft0001" x="411" y="0" width="226" height="114" frameX="-911" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeLeft0002" x="411" y="114" width="221" height="114" frameX="-913" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeRight0000" x="0" y="0" width="205" height="117" frameX="-921" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeRight0001" x="205" y="0" width="206" height="115" frameX="-918" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeRight0002" x="0" y="117" width="208" height="115" frameX="-915" frameY="-965" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeUp0000" x="208" y="117" width="178" height="109" frameX="-934" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeUp0001" x="228" y="232" width="172" height="109" frameX="-940" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFCubeUp0002" x="0" y="346" width="166" height="108" frameX="-943" frameY="-972" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

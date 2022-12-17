@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Darkness_Assets.png">
+<SubTexture name="DarknessAnimation0000" x="222" y="672" width="212" height="148" frameX="-905" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0001" x="434" y="522" width="218" height="149" frameX="-904" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0002" x="720" y="149" width="211" height="148" frameX="-904" frameY="-950" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0003" x="720" y="297" width="210" height="148" frameX="-905" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0004" x="434" y="672" width="242" height="148" frameX="-882" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0005" x="0" y="200" width="223" height="166" frameX="-884" frameY="-942" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0006" x="0" y="522" width="212" height="150" frameX="-899" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0007" x="720" y="0" width="211" height="149" frameX="-899" frameY="-946" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessAnimation0008" x="720" y="445" width="211" height="148" frameX="-899" frameY="-946" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessDown0000" x="931" y="0" width="229" height="139" frameX="-909" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessDown0001" x="931" y="139" width="228" height="138" frameX="-910" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessDown0002" x="931" y="277" width="229" height="138" frameX="-911" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessIdle0000" x="183" y="366" width="210" height="154" frameX="-919" frameY="-936" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessLeft0000" x="212" y="522" width="222" height="150" frameX="-910" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessLeft0001" x="0" y="672" width="222" height="149" frameX="-910" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessLeft0002" x="676" y="672" width="221" height="148" frameX="-910" frameY="-948" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessRight0000" x="223" y="200" width="188" height="159" frameX="-925" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessRight0001" x="0" y="366" width="183" height="156" frameX="-928" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessRight0002" x="540" y="0" width="180" height="154" frameX="-929" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessUp0000" x="0" y="0" width="178" height="200" frameX="-933" frameY="-925" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessUp0001" x="178" y="0" width="184" height="185" frameX="-930" frameY="-940" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessUp0002" x="362" y="0" width="178" height="183" frameX="-932" frameY="-941" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

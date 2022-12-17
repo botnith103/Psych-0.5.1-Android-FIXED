@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FastShipDashy_Assets.png">
+<SubTexture name="FastShipDashyDown0000" x="0" y="731" width="270" height="120" frameX="-890" frameY="-962" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyDown0001" x="774" y="121" width="230" height="119" frameX="-898" frameY="-962" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyDown0002" x="0" y="607" width="253" height="124" frameX="-889" frameY="-958" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyIdle0000" x="504" y="607" width="270" height="121" frameX="-888" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyIdle0001" x="774" y="0" width="230" height="121" frameX="-896" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyIdle0002" x="253" y="607" width="251" height="123" frameX="-888" frameY="-961" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyIdle0003" x="255" y="346" width="211" height="123" frameX="-896" frameY="-961" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyIdle0004" x="276" y="478" width="270" height="125" frameX="-888" frameY="-960" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyLeft0000" x="0" y="478" width="276" height="129" frameX="-886" frameY="-961" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyLeft0001" x="499" y="260" width="236" height="128" frameX="-894" frameY="-961" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyLeft0002" x="499" y="131" width="256" height="129" frameX="-887" frameY="-961" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyRight0000" x="499" y="0" width="275" height="131" frameX="-887" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyRight0001" x="252" y="181" width="239" height="132" frameX="-895" frameY="-956" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyRight0002" x="0" y="346" width="255" height="132" frameX="-889" frameY="-956" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyUp0000" x="0" y="0" width="269" height="181" frameX="-890" frameY="-937" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyUp0001" x="269" y="0" width="230" height="174" frameX="-898" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipDashyUp0002" x="0" y="181" width="252" height="165" frameX="-890" frameY="-953" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

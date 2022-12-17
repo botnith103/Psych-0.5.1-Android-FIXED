@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFHand_Assets.png">
+<SubTexture name="BFHandDown0000" x="0" y="0" width="164" height="130" frameX="-945" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandDown0001" x="164" y="0" width="155" height="152" frameX="-943" frameY="-946" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandDown0002" x="319" y="0" width="145" height="162" frameX="-939" frameY="-937" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandIdle0000" x="464" y="0" width="127" height="165" frameX="-959" frameY="-940" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandIdle0001" x="0" y="165" width="112" height="165" frameX="-972" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandIdle0002" x="112" y="165" width="98" height="168" frameX="-987" frameY="-942" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandIdle0003" x="210" y="165" width="104" height="170" frameX="-996" frameY="-940" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandIdle0004" x="314" y="165" width="98" height="169" frameX="-994" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandLeft0000" x="0" y="335" width="128" height="165" frameX="-959" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandLeft0001" x="128" y="335" width="104" height="166" frameX="-981" frameY="-939" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandLeft0002" x="232" y="335" width="96" height="169" frameX="-999" frameY="-939" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandRight0000" x="328" y="335" width="150" height="158" frameX="-952" frameY="-949" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandRight0001" x="0" y="504" width="137" height="166" frameX="-950" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandRight0002" x="137" y="504" width="124" height="168" frameX="-948" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandUp0000" x="261" y="504" width="112" height="166" frameX="-966" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandUp0001" x="373" y="504" width="97" height="168" frameX="-990" frameY="-941" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="BFHandUp0002" x="0" y="672" width="114" height="169" frameX="-991" frameY="-942" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>
