@@ -1,0 +1,726 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"oscuro"
+					]
+				]
+			],
+			[
+				6400,
+				[
+					[
+						"Green Flash Camera",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"Play Animation",
+						"Animation",
+						"dad"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"happydarkness"
+					],
+					[
+						"Green Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Play Animation",
+						"Animation",
+						"dad"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"finaldarkness"
+					],
+					[
+						"Green Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Green Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Blank Flash Camera",
+						"3",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"darknessgd"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfhand"
+					]
+				]
+			],
+			[
+				64100,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"cavefnf"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"finaldarkness"
+					],
+					[
+						"Change Character",
+						"bf",
+						"darknessbf"
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"Replace stage layer",
+						"cavefnf",
+						""
+					]
+				]
+			],
+			[
+				90400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Green Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				126400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				142400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				145600,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Green Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"darknessgd"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfhand"
+					]
+				]
+			],
+			[
+				160100,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"cavefnf"
+					]
+				]
+			],
+			[
+				166400,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"finaldarkness"
+					],
+					[
+						"Change Character",
+						"bf",
+						"darknessbf"
+					]
+				]
+			],
+			[
+				166500,
+				[
+					[
+						"Replace stage layer",
+						"cavefnf",
+						""
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Green Flash Camera",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				172900,
+				[
+					[
+						"Replace stage layer",
+						"oscuro",
+						""
+					]
+				]
+			]
+		]
+	}
+}
