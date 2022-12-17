@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geometricalpublic.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="public0000" x="5" y="0" width="574" height="190"/>
+	<SubTexture name="public0001" x="594" y="0" width="574" height="190"/>
+	<SubTexture name="public0002" x="5" y="209" width="574" height="190"/>
+	<SubTexture name="public0003" x="594" y="209" width="574" height="190"/>
+</TextureAtlas>

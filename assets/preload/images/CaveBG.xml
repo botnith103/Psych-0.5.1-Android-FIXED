@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CaveBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CaveBG0000" x="0" y="0" width="580" height="316"/>
+	<SubTexture name="CaveBG0001" x="580" y="0" width="580" height="316"/>
+	<SubTexture name="CaveBG0002" x="0" y="0" width="580" height="316"/>
+	<SubTexture name="CaveBG0003" x="0" y="316" width="580" height="316"/>
+	<SubTexture name="CaveBG0004" x="0" y="316" width="580" height="316"/>
+	<SubTexture name="CaveBG0005" x="580" y="316" width="580" height="316"/>
+</TextureAtlas>

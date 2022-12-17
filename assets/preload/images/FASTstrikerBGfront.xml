@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FASTstrikerBGfront.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FASTstrikerBGfront 0000" x="0" y="0" width="1202" height="331" frameX="0" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0001" x="0" y="0" width="1202" height="331" frameX="-100" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0002" x="0" y="0" width="1202" height="331" frameX="-200" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0003" x="0" y="0" width="1202" height="331" frameX="-300" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0004" x="0" y="0" width="1202" height="331" frameX="-400" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0005" x="0" y="0" width="1202" height="331" frameX="-500" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0006" x="0" y="0" width="1202" height="331" frameX="-600" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0007" x="0" y="0" width="1202" height="331" frameX="-700" frameY="0" frameWidth="1202" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGfront 0008" x="0" y="0" width="1202" height="331" frameX="-800" frameY="0" frameWidth="1202" frameHeight="331"/>
+</TextureAtlas>

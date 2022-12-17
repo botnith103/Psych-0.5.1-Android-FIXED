@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grassBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grassBG0000" x="0" y="0" width="574" height="307"/>
+	<SubTexture name="grassBG0001" x="0" y="0" width="574" height="307"/>
+	<SubTexture name="grassBG0002" x="574" y="0" width="574" height="307"/>
+	<SubTexture name="grassBG0003" x="574" y="0" width="574" height="307"/>
+	<SubTexture name="grassBG0004" x="0" y="307" width="574" height="307"/>
+	<SubTexture name="grassBG0005" x="0" y="307" width="574" height="307"/>
+	<SubTexture name="grassBG0006" x="574" y="307" width="574" height="307"/>
+	<SubTexture name="grassBG0007" x="574" y="307" width="574" height="307"/>
+	<SubTexture name="grassBG0008" x="574" y="307" width="574" height="307"/>
+	<SubTexture name="grassBG0009" x="574" y="307" width="574" height="307"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rocks.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rocks0000" x="0" y="0" width="5740" height="1650" frameX="0" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0001" x="0" y="0" width="5740" height="1650" frameX="-400" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0002" x="0" y="0" width="5740" height="1650" frameX="-800" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0003" x="0" y="0" width="5740" height="1650" frameX="-1200" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0004" x="0" y="0" width="5740" height="1650" frameX="-1600" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0005" x="0" y="0" width="5740" height="1650" frameX="-2000" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0006" x="0" y="0" width="5740" height="1650" frameX="-2400" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0007" x="0" y="0" width="5740" height="1650" frameX="-2800" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0008" x="0" y="0" width="5740" height="1650" frameX="-3200" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0009" x="0" y="0" width="5740" height="1650" frameX="-3600" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0010" x="0" y="0" width="5740" height="1650" frameX="-4000" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0011" x="0" y="0" width="5740" height="1650" frameX="-4400" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0012" x="0" y="0" width="5740" height="1650" frameX="-4800" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0013" x="0" y="0" width="5740" height="1650" frameX="-5200" frameY="0" frameWidth="11476" frameHeight="1650"/>
+	<SubTexture name="rocks0014" x="0" y="0" width="5740" height="1650" frameX="-5736" frameY="0" frameWidth="11476" frameHeight="1650"/>
+</TextureAtlas>
