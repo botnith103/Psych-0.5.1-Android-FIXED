@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				265,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarknessGDIdle"
+		},
+		{
+			"offsets": [
+				257,
+				287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DarknessGDLeft"
+		},
+		{
+			"offsets": [
+				257,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DarknessGDDown"
+		},
+		{
+			"offsets": [
+				223,
+				268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DarknessGDUp"
+		},
+		{
+			"offsets": [
+				217,
+				285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DarknessGDRight"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/DarknessGD_Assets",
+	"position": [
+		-250,
+		-570
+	],
+	"healthicon": "darkness",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		255,
+		2
+	],
+	"camera_position": [
+		-2870,
+		-2670
+	],
+	"sing_duration": 4,
+	"scale": 3.4
+}

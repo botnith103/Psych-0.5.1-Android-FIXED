@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DarkBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DarkBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DarkBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				109
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DarkBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DarkBFRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "DarkBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DarkBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-156,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "DarkBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "DarkBFIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkBF_Assets",
+	"position": [
+		-820,
+		-420
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1360,
+		-1250
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

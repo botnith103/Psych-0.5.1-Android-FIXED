@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DarknessBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				126
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DarknessBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				131
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DarknessBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				132
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DarknessBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				125
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DarknessBFRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarknessBF_Assets",
+	"position": [
+		-770,
+		-410
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1380,
+		-1390
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}

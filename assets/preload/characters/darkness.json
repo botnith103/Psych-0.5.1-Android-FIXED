@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarknessIdle"
+		},
+		{
+			"offsets": [
+				150,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DarknessLeft"
+		},
+		{
+			"offsets": [
+				186,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DarknessDown"
+		},
+		{
+			"offsets": [
+				149,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DarknessUp"
+		},
+		{
+			"offsets": [
+				156,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DarknessRight"
+		},
+		{
+			"offsets": [
+				98,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Animation",
+			"indices": [],
+			"name": "DarknessAnimation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Darkness_Assets",
+	"position": [
+		-620,
+		-1020
+	],
+	"healthicon": "darkness",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		255,
+		2
+	],
+	"camera_position": [
+		-3160,
+		-2830
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

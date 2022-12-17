@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarkDashyIdle"
+		},
+		{
+			"offsets": [
+				-7,
+				-390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DarkDashyLeft"
+		},
+		{
+			"offsets": [
+				-40,
+				-410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DarkDashyDown"
+		},
+		{
+			"offsets": [
+				-56,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DarkDashyUp"
+		},
+		{
+			"offsets": [
+				-70,
+				-393
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DarkDashyRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DarkDashy_Assets",
+	"position": [
+		-830,
+		-880
+	],
+	"healthicon": "dashy",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		227,
+		0
+	],
+	"camera_position": [
+		-680,
+		-910
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

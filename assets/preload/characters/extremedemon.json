@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ExtremeDemonIdle"
+		},
+		{
+			"offsets": [
+				213,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ExtremeDemonLeft"
+		},
+		{
+			"offsets": [
+				160,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ExtremeDemonDown"
+		},
+		{
+			"offsets": [
+				214,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ExtremeDemonUp"
+		},
+		{
+			"offsets": [
+				-60,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ExtremeDemonRight"
+		},
+		{
+			"offsets": [
+				-71,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Animation",
+			"indices": [],
+			"name": "ExtremeDemonAnimation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ExtremeDemon_Assets",
+	"position": [
+		230,
+		220
+	],
+	"healthicon": "extremedemon",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		0,
+		1
+	],
+	"camera_position": [
+		-290,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

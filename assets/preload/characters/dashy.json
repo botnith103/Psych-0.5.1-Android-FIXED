@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-430
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DashyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-410
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DashyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-428
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DashyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-386
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DashyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-411
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DashyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-426
+			],
+			"anim": "Animation",
+			"fps": 24,
+			"name": "DashyAnimation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dashy_Assets",
+	"position": [
+		-800,
+		-880
+	],
+	"healthicon": "dashy",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		227,
+		0
+	],
+	"camera_position": [
+		-2500,
+		-2540
+	],
+	"sing_duration": 6.1,
+	"scale": 3.6
+}

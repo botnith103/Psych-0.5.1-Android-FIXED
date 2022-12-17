@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CaveBoyfriendIdle"
+		},
+		{
+			"offsets": [
+				15,
+				104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CaveBoyfriendLeft"
+		},
+		{
+			"offsets": [
+				54,
+				118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CaveBoyfriendDown"
+		},
+		{
+			"offsets": [
+				-19,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CaveBoyfriendUp"
+		},
+		{
+			"offsets": [
+				-48,
+				83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CaveBoyfriendRight"
+		},
+		{
+			"offsets": [
+				17,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MISSCaveBoyfriendLeft"
+		},
+		{
+			"offsets": [
+				-16,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MISSCaveBoyfriendUp"
+		},
+		{
+			"offsets": [
+				-54,
+				82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISSCaveBoyfriendRight"
+		},
+		{
+			"offsets": [
+				50,
+				118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MISSCaveBoyfriendDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CaveBF_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
