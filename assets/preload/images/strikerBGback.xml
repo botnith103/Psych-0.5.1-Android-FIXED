@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="strikerBGback.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="strikerBGback0000" x="0" y="0" width="1148" height="330" frameX="0" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0001" x="0" y="0" width="1148" height="330" frameX="-21" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0002" x="0" y="0" width="1148" height="330" frameX="-42" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0003" x="0" y="0" width="1148" height="330" frameX="-63" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0004" x="0" y="0" width="1148" height="330" frameX="-84" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0005" x="0" y="0" width="1148" height="330" frameX="-105" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0006" x="0" y="0" width="1148" height="330" frameX="-126" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0007" x="0" y="0" width="1148" height="330" frameX="-147" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0008" x="0" y="0" width="1148" height="330" frameX="-168" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0009" x="0" y="0" width="1148" height="330" frameX="-190" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0010" x="0" y="0" width="1148" height="330" frameX="-201" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0011" x="0" y="0" width="1148" height="330" frameX="-222" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0012" x="0" y="0" width="1148" height="330" frameX="-243" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0013" x="0" y="0" width="1148" height="330" frameX="-264" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0014" x="0" y="0" width="1148" height="330" frameX="-275" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0015" x="0" y="0" width="1148" height="330" frameX="-296" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0016" x="0" y="0" width="1148" height="330" frameX="-318" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0017" x="0" y="0" width="1148" height="330" frameX="-340" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0018" x="0" y="0" width="1148" height="330" frameX="-361" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0019" x="0" y="0" width="1148" height="330" frameX="-382" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0020" x="0" y="0" width="1148" height="330" frameX="-393" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0021" x="0" y="0" width="1148" height="330" frameX="-414" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0022" x="0" y="0" width="1148" height="330" frameX="-435" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0023" x="0" y="0" width="1148" height="330" frameX="-456" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0024" x="0" y="0" width="1148" height="330" frameX="-477" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0025" x="0" y="0" width="1148" height="330" frameX="-498" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0026" x="0" y="0" width="1148" height="330" frameX="-519" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0027" x="0" y="0" width="1148" height="330" frameX="-540" frameY="0" frameWidth="1148" frameHeight="330"/>
+	<SubTexture name="strikerBGback0028" x="0" y="0" width="1148" height="330" frameX="-561" frameY="0" frameWidth="1148" frameHeight="330"/>
+</TextureAtlas>

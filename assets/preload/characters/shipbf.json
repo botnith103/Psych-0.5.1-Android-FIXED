@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ShipBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				169
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ShipBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ShipBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				244
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ShipBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				155
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ShipBFRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				195
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSShipBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				151
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSShipBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				282
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSShipBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				172
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSShipBFRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShipBF_Assets",
+	"position": [
+		200,
+		490
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		380,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

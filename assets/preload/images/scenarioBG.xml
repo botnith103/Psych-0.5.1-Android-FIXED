@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scenarioBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scenarioBG0000" x="5" y="0" width="573" height="156"/>
+	<SubTexture name="scenarioBG0001" x="607" y="0" width="573" height="156"/>
+	<SubTexture name="scenarioBG0002" x="5" y="173" width="573" height="156"/>
+	<SubTexture name="scenarioBG0003" x="607" y="173" width="573" height="156"/>
+</TextureAtlas>

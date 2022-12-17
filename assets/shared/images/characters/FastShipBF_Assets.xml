@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FastShipBF_Assets.png">
+<SubTexture name="FastShipBFDown0000" x="617" y="213" width="200" height="99" frameX="-923" frameY="-975" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFDown0001" x="617" y="112" width="202" height="101" frameX="-929" frameY="-973" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFDown0002" x="213" y="581" width="208" height="103" frameX="-923" frameY="-972" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFIdle0000" x="405" y="114" width="200" height="112" frameX="-923" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFIdle0001" x="405" y="226" width="196" height="112" frameX="-929" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFIdle0002" x="214" y="355" width="209" height="112" frameX="-922" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFIdle0003" x="0" y="469" width="205" height="112" frameX="-929" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFIdle0004" x="205" y="469" width="208" height="112" frameX="-923" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFLeft0000" x="0" y="240" width="207" height="115" frameX="-918" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFLeft0001" x="0" y="124" width="204" height="116" frameX="-923" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFLeft0002" x="405" y="0" width="212" height="114" frameX="-917" frameY="-969" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFRight0000" x="0" y="581" width="213" height="111" frameX="-914" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFRight0001" x="617" y="0" width="205" height="112" frameX="-922" frameY="-970" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFRight0002" x="0" y="355" width="214" height="114" frameX="-917" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFUp0000" x="0" y="0" width="196" height="124" frameX="-929" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFUp0001" x="0" y="0" width="196" height="124" frameX="-929" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="FastShipBFUp0002" x="196" y="0" width="209" height="121" frameX="-921" frameY="-966" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

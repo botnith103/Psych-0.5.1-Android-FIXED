@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DarkDashy_Assets.png">
+<SubTexture name="DarkDashyDown0000" x="237" y="0" width="120" height="110" frameX="-964" frameY="-969" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyDown0001" x="117" y="229" width="119" height="109" frameX="-964" frameY="-969" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyDown0002" x="236" y="229" width="119" height="109" frameX="-964" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyDown0003" x="349" y="339" width="114" height="104" frameX="-965" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyIdle0000" x="467" y="109" width="4" height="4" frameX="-1021" frameY="-1022" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyLeft0000" x="357" y="217" width="118" height="107" frameX="-965" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyLeft0001" x="119" y="339" width="116" height="107" frameX="-963" frameY="-971" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyLeft0002" x="118" y="0" width="119" height="114" frameX="-962" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyLeft0003" x="119" y="115" width="114" height="112" frameX="-965" frameY="-964" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyRight0000" x="357" y="0" width="118" height="109" frameX="-964" frameY="-972" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyRight0001" x="237" y="110" width="119" height="110" frameX="-962" frameY="-972" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyRight0002" x="0" y="0" width="118" height="115" frameX="-960" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyRight0003" x="357" y="109" width="110" height="108" frameX="-962" frameY="-973" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyUp0000" x="0" y="229" width="117" height="110" frameX="-963" frameY="-970" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyUp0001" x="0" y="339" width="119" height="109" frameX="-960" frameY="-970" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyUp0002" x="0" y="115" width="119" height="114" frameX="-960" frameY="-965" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarkDashyUp0003" x="235" y="339" width="114" height="107" frameX="-962" frameY="-971" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,77 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "ShipGFLeft"
+		},
+		{
+			"offsets": [
+				-10,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "ShipGFRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ShipGF_Assets",
+	"position": [
+		-550,
+		-710
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-2510,
+		-2350
+	],
+	"sing_duration": 4,
+	"scale": 3.3
+}

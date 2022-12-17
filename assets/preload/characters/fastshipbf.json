@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FastShipBFLeft"
+		},
+		{
+			"offsets": [
+				56,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FastShipBFDown"
+		},
+		{
+			"offsets": [
+				51,
+				182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FastShipBFUp"
+		},
+		{
+			"offsets": [
+				36,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FastShipBFRight"
+		},
+		{
+			"offsets": [
+				55,
+				150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FastShipBFIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FastShipBF_Assets",
+	"position": [
+		-520,
+		-400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		4120,
+		-4250
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

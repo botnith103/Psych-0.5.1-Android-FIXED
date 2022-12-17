@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFCubeIdle"
+		},
+		{
+			"offsets": [
+				71,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFCubeLeft"
+		},
+		{
+			"offsets": [
+				42,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFCubeDown"
+		},
+		{
+			"offsets": [
+				54,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFCubeUp"
+		},
+		{
+			"offsets": [
+				29,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFCubeRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFCube_Assets",
+	"position": [
+		-780,
+		-400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1860,
+		-1750
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

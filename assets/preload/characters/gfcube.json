@@ -1,0 +1,77 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-49
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GFCubedanceLeft"
+		},
+		{
+			"offsets": [
+				-40,
+				-49
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GFCubedanceRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFCube_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

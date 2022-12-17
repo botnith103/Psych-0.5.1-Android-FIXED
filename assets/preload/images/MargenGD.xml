@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MargenGD.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MargenGD0000" x="0" y="0" width="580" height="315"/>
+	<SubTexture name="MargenGD0001" x="0" y="0" width="580" height="315"/>
+	<SubTexture name="MargenGD0002" x="580" y="0" width="580" height="315"/>
+	<SubTexture name="MargenGD0003" x="580" y="0" width="580" height="315"/>
+	<SubTexture name="MargenGD0004" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0005" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0006" x="580" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0007" x="580" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0008" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0009" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0010" x="580" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0011" x="580" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0012" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0013" x="0" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0014" x="580" y="315" width="580" height="315"/>
+	<SubTexture name="MargenGD0015" x="580" y="315" width="580" height="315"/>
+</TextureAtlas>

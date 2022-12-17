@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dashy_Tiny.png">
+<SubTexture name="Dashy Down0000" x="528" y="214" width="174" height="102" frameX="-935" frameY="-975" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Down0001" x="528" y="316" width="175" height="102" frameX="-935" frameY="-974" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Down0002" x="528" y="111" width="175" height="103" frameX="-935" frameY="-973" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Idle0000" x="390" y="517" width="196" height="107" frameX="-928" frameY="-969" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Idle0001" x="0" y="517" width="198" height="108" frameX="-928" frameY="-968" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Idle0002" x="198" y="517" width="192" height="108" frameX="-929" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Idle0003" x="0" y="279" width="189" height="121" frameX="-930" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Idle0004" x="528" y="0" width="187" height="111" frameX="-930" frameY="-963" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Left0000" x="189" y="279" width="166" height="117" frameX="-936" frameY="-967" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Left0001" x="340" y="126" width="164" height="118" frameX="-939" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Left0002" x="168" y="140" width="163" height="118" frameX="-940" frameY="-966" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Right0000" x="0" y="400" width="183" height="117" frameX="-931" frameY="-964" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Right0001" x="183" y="400" width="178" height="117" frameX="-931" frameY="-964" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Right0002" x="340" y="0" width="188" height="126" frameX="-932" frameY="-955" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Up0000" x="0" y="140" width="168" height="139" frameX="-941" frameY="-955" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Up0001" x="0" y="0" width="170" height="140" frameX="-940" frameY="-954" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="Dashy Up0002" x="170" y="0" width="170" height="140" frameX="-939" frameY="-954" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

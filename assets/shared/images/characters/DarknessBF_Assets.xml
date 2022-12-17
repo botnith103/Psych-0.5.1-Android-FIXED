@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DarknessBF_Assets.png">
+<SubTexture name="DarknessBFDown0000" x="0" y="0" width="184" height="195" frameX="-934" frameY="-927" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFDown0001" x="184" y="0" width="184" height="194" frameX="-937" frameY="-928" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFDown0002" x="368" y="0" width="185" height="197" frameX="-938" frameY="-926" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFIdle0000" x="553" y="0" width="183" height="196" frameX="-931" frameY="-931" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFIdle0001" x="0" y="197" width="184" height="197" frameX="-932" frameY="-930" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFIdle0002" x="184" y="197" width="185" height="197" frameX="-932" frameY="-930" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFIdle0003" x="369" y="197" width="185" height="197" frameX="-932" frameY="-929" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFIdle0004" x="554" y="197" width="185" height="197" frameX="-932" frameY="-929" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFLeft0000" x="0" y="394" width="184" height="195" frameX="-931" frameY="-926" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFLeft0001" x="184" y="394" width="185" height="196" frameX="-932" frameY="-925" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFLeft0002" x="369" y="394" width="184" height="196" frameX="-933" frameY="-925" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFRight0000" x="553" y="394" width="184" height="196" frameX="-931" frameY="-924" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFRight0001" x="0" y="590" width="185" height="197" frameX="-928" frameY="-923" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFRight0002" x="185" y="590" width="185" height="196" frameX="-927" frameY="-923" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFUp0000" x="370" y="590" width="181" height="195" frameX="-930" frameY="-928" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFUp0001" x="551" y="590" width="183" height="196" frameX="-929" frameY="-927" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DarknessBFUp0002" x="0" y="787" width="184" height="197" frameX="-930" frameY="-926" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

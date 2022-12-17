@@ -1,0 +1,1603 @@
+{
+	"song": {
+		"events": [
+			[
+				19894.7368421053,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.50"
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				20526.3157894737,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				20842.1052631579,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				21157.8947368421,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				21473.6842105263,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				21789.4736842105,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				22105.2631578947,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					],
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				23052.6315789474,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				23368.4210526316,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				23684.2105263158,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				24315.7894736842,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				24631.5789473684,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				24947.3684210526,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08 "
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						".08"
+					]
+				]
+			],
+			[
+				25578.9473684211,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				25894.7368421053,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				26210.5263157895,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				26526.3157894737,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				26842.1052631579,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				27157.8947368421,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				27473.6842105263,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				27789.4736842105,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				28105.2631578947,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				28421.052631579,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				28736.8421052632,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				29052.6315789474,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				29368.4210526316,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				29684.2105263158,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.080",
+						"0.08"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						".080",
+						".08"
+					]
+				]
+			],
+			[
+				30157.8947368421,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.50"
+					]
+				],
+				null,
+				"x1 Note"
+			],
+			[
+				50289.4736842105,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.50"
+					]
+				],
+				null,
+				"x4 Note"
+			],
+			[
+				50526.3157894737,
+				[
+					[
+						"Blank Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				50605.2631578947,
+				[
+					[
+						"Change Character",
+						"gf",
+						"fastshipgf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"fastshipbf"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					],
+					[
+						"Change Character",
+						"dad",
+						"fastshipdashy"
+					]
+				]
+			],
+			[
+				50684.2105263158,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"backBG"
+					]
+				]
+			],
+			[
+				50763.1578947368,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"publicships"
+					]
+				]
+			],
+			[
+				50842.1052631579,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"frontBG"
+					]
+				]
+			],
+			[
+				59368.4210526315,
+				[
+					[
+						"Red Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				70578.947368421,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.50"
+					]
+				]
+			],
+			[
+				70736.8421052631,
+				[
+					[
+						"Change Character",
+						"gf",
+						"shipgf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"shipbf"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"shipdashy"
+					],
+					[
+						"Blank Flash Camera",
+						"2",
+						""
+					]
+				],
+				null,
+				"x2 Note"
+			],
+			[
+				70815.7894736842,
+				[
+					[
+						"Replace stage layer",
+						"frontBG",
+						""
+					]
+				]
+			],
+			[
+				70894.7368421052,
+				[
+					[
+						"Replace stage layer",
+						"backBG",
+						""
+					]
+				]
+			],
+			[
+				70973.6842105263,
+				[
+					[
+						"Replace stage layer",
+						"publicships",
+						""
+					]
+				]
+			],
+			[
+				80684.2105263157,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.50"
+					]
+				],
+				null,
+				"Spike Note"
+			],
+			[
+				89684.2105263157,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89842.1052631578,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90157.894736842,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90315.7894736841,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90473.6842105262,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90631.5789473683,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90789.4736842104,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Blank Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"fastshipgf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"fastshipbf"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					],
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.50"
+					],
+					[
+						"Change Character",
+						"dad",
+						"fastshipdashy"
+					]
+				]
+			],
+			[
+				91026.3157894736,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"publicships"
+					]
+				]
+			],
+			[
+				91105.2631578946,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"frontBG"
+					]
+				]
+			],
+			[
+				91184.2105263157,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"backBG"
+					]
+				]
+			],
+			[
+				99789.4736842104,
+				[
+					[
+						"Blank Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.50"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"shipbf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"shipgf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"shipdashy"
+					]
+				],
+				null,
+				"x2 Note"
+			],
+			[
+				99868.4210526315,
+				[
+					[
+						"Replace stage layer",
+						"publicships",
+						""
+					]
+				]
+			],
+			[
+				99947.3684210525,
+				[
+					[
+						"Replace stage layer",
+						"frontBG",
+						""
+					]
+				]
+			],
+			[
+				100026.315789474,
+				[
+					[
+						"Replace stage layer",
+						"backBG",
+						""
+					]
+				]
+			],
+			[
+				110842.105263158,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.50"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				111157.894736842,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				111789.47368421,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				112421.052631579,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113052.631578947,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113684.210526316,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114315.789473684,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114947.368421052,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115578.947368421,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				116210.526315789,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.50"
+					],
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				],
+				null,
+				"x1 Note"
+			],
+			[
+				116842.105263158,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117473.684210526,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118105.263157895,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118736.842105263,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				119368.421052631,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.50"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				128842.105263158,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.50"
+					]
+				]
+			],
+			[
+				131210.526315789,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.50"
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					],
+					[
+						"Blank Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"fastshipbf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"fastshipgf"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					],
+					[
+						"Change Character",
+						"dad",
+						"fastshipdashy"
+					]
+				]
+			],
+			[
+				131447.368421052,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"frontBG"
+					]
+				]
+			],
+			[
+				131526.315789474,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"backBG"
+					]
+				]
+			],
+			[
+				131605.263157895,
+				[
+					[
+						"Replace stage layer",
+						"",
+						"publicships"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132315.789473684,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132631.578947368,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132947.368421052,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133263.157894737,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133578.947368421,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133894.736842105,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134210.526315789,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134526.315789474,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134842.105263158,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135157.894736842,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135473.684210526,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				135789.47368421,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				136105.263157895,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				136736.842105263,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137052.631578947,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137368.421052631,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				137684.210526316,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138315.789473684,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138631.578947368,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138947.368421053,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139263.157894737,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139578.947368421,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				139894.736842105,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140210.526315789,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140526.315789474,
+				[
+					[
+						"Green Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140842.105263158,
+				[
+					[
+						"Cyan Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				141157.894736842,
+				[
+					[
+						"Magenta Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				141315.789473684,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.50"
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"Blank Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"shipbf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"shipgf"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"shipdashy"
+					]
+				]
+			],
+			[
+				141552.631578947,
+				[
+					[
+						"Replace stage layer",
+						"frontBG",
+						""
+					]
+				]
+			],
+			[
+				141631.578947368,
+				[
+					[
+						"Replace stage layer",
+						"backBG",
+						""
+					]
+				]
+			],
+			[
+				141710.526315789,
+				[
+					[
+						"Replace stage layer",
+						"publicships",
+						""
+					]
+				]
+			],
+			[
+				160578.947368421,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				160894.736842105,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				161210.52631579,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				161526.315789474,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				162315.789473684,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				162631.578947369,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				162947.368421053,
+				[
+					[
+						"Blank Flash Camera",
+						"3",
+						""
+					]
+				]
+			]
+		]
+	}
+}

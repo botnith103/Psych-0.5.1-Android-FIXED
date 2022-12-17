@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="caveThings.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="caveThings0000" x="0" y="0" width="372" height="261"/>
+	<SubTexture name="caveThings0001" x="372" y="0" width="372" height="261"/>
+	<SubTexture name="caveThings0002" x="745" y="0" width="372" height="261"/>
+	<SubTexture name="caveThings0003" x="0" y="274" width="372" height="261"/>
+	<SubTexture name="caveThings0004" x="372" y="274" width="372" height="261"/>
+	<SubTexture name="caveThings0005" x="745" y="274" width="372" height="261"/>
+	<SubTexture name="caveThings0006" x="0" y="274" width="372" height="261"/>
+</TextureAtlas>

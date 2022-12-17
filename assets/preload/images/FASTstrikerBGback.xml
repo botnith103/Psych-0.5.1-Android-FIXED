@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FASTstrikerBGback.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FASTstrikerBGback0000" x="0" y="0" width="1186" height="331" frameX="0" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0001" x="0" y="0" width="1186" height="331" frameX="-25" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0002" x="0" y="0" width="1186" height="331" frameX="-50" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0003" x="0" y="0" width="1186" height="331" frameX="-75" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0004" x="0" y="0" width="1186" height="331" frameX="-100" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0005" x="0" y="0" width="1186" height="331" frameX="-125" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0006" x="0" y="0" width="1186" height="331" frameX="-150" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0007" x="0" y="0" width="1186" height="331" frameX="-175" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0008" x="0" y="0" width="1186" height="331" frameX="-200" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0009" x="0" y="0" width="1186" height="331" frameX="-225" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0010" x="0" y="0" width="1186" height="331" frameX="-250" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0011" x="0" y="0" width="1186" height="331" frameX="-275" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0012" x="0" y="0" width="1186" height="331" frameX="-300" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0013" x="0" y="0" width="1186" height="331" frameX="-325" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0014" x="0" y="0" width="1186" height="331" frameX="-350" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0015" x="0" y="0" width="1186" height="331" frameX="-375" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0016" x="0" y="0" width="1186" height="331" frameX="-400" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0017" x="0" y="0" width="1186" height="331" frameX="-425" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0018" x="0" y="0" width="1186" height="331" frameX="-450" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0019" x="0" y="0" width="1186" height="331" frameX="-475" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0020" x="0" y="0" width="1186" height="331" frameX="-500" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0021" x="0" y="0" width="1186" height="331" frameX="-525" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0022" x="0" y="0" width="1186" height="331" frameX="-550" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0023" x="0" y="0" width="1186" height="331" frameX="-575" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0024" x="0" y="0" width="1186" height="331" frameX="-600" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0025" x="0" y="0" width="1186" height="331" frameX="-625" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0026" x="0" y="0" width="1186" height="331" frameX="-650" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0027" x="0" y="0" width="1186" height="331" frameX="-675" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0028" x="0" y="0" width="1186" height="331" frameX="-700" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0029" x="0" y="0" width="1186" height="331" frameX="-725" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0030" x="0" y="0" width="1186" height="331" frameX="-750" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0031" x="0" y="0" width="1186" height="331" frameX="-775" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0032" x="0" y="0" width="1186" height="331" frameX="-800" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0033" x="0" y="0" width="1186" height="331" frameX="-825" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0034" x="0" y="0" width="1186" height="331" frameX="-850" frameY="0" frameWidth="1186" frameHeight="331"/>
+	<SubTexture name="FASTstrikerBGback0035" x="0" y="0" width="1186" height="331" frameX="-875" frameY="0" frameWidth="1186" frameHeight="331"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DashyEditor_Assets.png">
+<SubTexture name="DashyEditorDown0000" x="428" y="308" width="110" height="112" frameX="-963" frameY="-959" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorDown0001" x="0" y="164" width="146" height="144" frameX="-948" frameY="-943" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorDown0002" x="146" y="164" width="142" height="143" frameX="-955" frameY="-945" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorDown0003" x="0" y="308" width="149" height="134" frameX="-949" frameY="-957" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorIdle0000" x="186" y="553" width="199" height="85" frameX="-933" frameY="-988" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorIdle0001" x="385" y="553" width="194" height="85" frameX="-933" frameY="-988" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorIdle0002" x="0" y="553" width="186" height="90" frameX="-928" frameY="-984" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorIdle0003" x="321" y="442" width="176" height="93" frameX="-933" frameY="-981" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorIdle0004" x="578" y="0" width="175" height="93" frameX="-933" frameY="-981" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorLeft0000" x="578" y="93" width="133" height="90" frameX="-959" frameY="-977" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorLeft0001" x="384" y="139" width="180" height="137" frameX="-994" frameY="-935" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorLeft0002" x="384" y="0" width="194" height="139" frameX="-984" frameY="-934" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorRight0000" x="578" y="183" width="146" height="90" frameX="-947" frameY="-981" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorRight0001" x="0" y="0" width="192" height="164" frameX="-919" frameY="-914" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorRight0002" x="192" y="0" width="192" height="164" frameX="-919" frameY="-916" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorUp0000" x="149" y="308" width="108" height="127" frameX="-966" frameY="-944" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorUp0001" x="257" y="308" width="171" height="124" frameX="-946" frameY="-947" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorUp0002" x="0" y="442" width="159" height="111" frameX="-962" frameY="-960" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="DashyEditorUp0003" x="159" y="442" width="162" height="111" frameX="-962" frameY="-961" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>
