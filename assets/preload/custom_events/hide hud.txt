@@ -1,0 +1,3 @@
+just hide the hud (cam.hud)
+
+use the 'return hud' event to make the hud visible again
